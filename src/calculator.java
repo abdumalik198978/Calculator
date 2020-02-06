@@ -9,5 +9,8 @@ return c-d;
     public static double multiply(double e, double f){
 return e*f;
     }
+    public static double multiply(double e, double f){
+return e*f;
+    }
 
 }
